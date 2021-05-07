@@ -10,7 +10,7 @@ Vista de la Funcionalidad Buscar Articulo
 
 package view;
 
-import com.mycompany.mavenproject1.view.VentanaPrincipalGUI;
+import com.mycompany.mavenproject1.view.BuscarArticuloGUI;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
