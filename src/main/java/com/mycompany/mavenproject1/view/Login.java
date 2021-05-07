@@ -14,7 +14,6 @@ import java.util.Arrays;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 import view.LoginGUI;
-import view.VentanaPrincipalGUI;
 
 /**
  *

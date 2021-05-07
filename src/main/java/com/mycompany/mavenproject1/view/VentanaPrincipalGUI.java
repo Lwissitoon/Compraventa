@@ -5,14 +5,17 @@
 
 */
 
-package view;
+package com.mycompany.mavenproject1.view;
 
+import com.mycompany.mavenproject1.view.Login;
 import com.mycompany.mavenproject1.view.RegistrarCliente;
+import com.mycompany.mavenproject1.view.RegistrarEmpenoGUI;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import domain.ControladorSesion;
 import dataAccess.UsuarioDA;
+
 
 
 public class VentanaPrincipalGUI extends JFrame implements ActionListener{
@@ -51,7 +54,7 @@ public class VentanaPrincipalGUI extends JFrame implements ActionListener{
 
 	  botonBuscarArticulo = new JButton ("Buscar Articulo");
 	  botonRegistrarCliente = new JButton("Registrar Cliente");
-	  botonBuscarCliente = new JButton("Buscar Cliente");
+	  botonBuscarCliente = new JButton("Registrar Empeno");
 	  botonCerrarSesion = new JButton("Cerrar Sesion");
 
 	  panelMenu = new JPanel();
@@ -111,29 +114,22 @@ public class VentanaPrincipalGUI extends JFrame implements ActionListener{
 
 		if (e.getSource()==botonBuscarCliente){
 
-			BuscarClienteGUI buscarCliente = new BuscarClienteGUI();
-			buscarCliente.setVisible(true);
+			RegistrarEmpenoGUI registrarEmpeno = new RegistrarEmpenoGUI();
+			registrarEmpeno.setVisible(true);
 			this.ocultar();
 		}
 
 
 		if (e.getSource()==botonCerrarSesion){
-
-
 			cSesion.cerrarSesion();
 			cerrarVentana();
-
-
 		}
 
 
 
 		if (e.getSource() == botonCerrar){
-
 			cSesion.cerrarSesion();
 			System.exit(0);
-
-
 		}
 
 
@@ -155,10 +151,8 @@ public class VentanaPrincipalGUI extends JFrame implements ActionListener{
 	}	
 
 	void cerrarVentana (){
-
-
 		dispose();
-		LoginGUI ventanaLogin = new LoginGUI ();
+		Login ventanaLogin = new Login();
 		ventanaLogin.setVisible(true);
 
 	}

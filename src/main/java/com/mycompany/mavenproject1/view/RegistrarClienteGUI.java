@@ -7,6 +7,7 @@ Clase de la interfaz Grafica de la funcion Registrar Cliente
 
 package view;
 
+import com.mycompany.mavenproject1.view.VentanaPrincipalGUI;
 import dataAccess.Db;
 import javax.swing.*;
 import java.awt.*;

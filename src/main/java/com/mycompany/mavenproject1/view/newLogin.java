@@ -21,7 +21,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
-import view.VentanaPrincipalGUI;
 import dataAccess.Db;
 import domain.ControladorSesion;
 import domain.Usuario;

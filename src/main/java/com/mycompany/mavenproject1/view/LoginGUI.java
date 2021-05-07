@@ -6,6 +6,7 @@ Login GUI aplica la capa de vista del Caso de Uso Iniciar Sesion
 
 package view;
 
+import com.mycompany.mavenproject1.view.VentanaPrincipalGUI;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;

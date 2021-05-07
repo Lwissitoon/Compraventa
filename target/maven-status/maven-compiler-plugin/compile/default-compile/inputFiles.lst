@@ -3,6 +3,7 @@ C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycomp
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\view\RegistrarClienteGUI.java
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\domain\Venta.java
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\dataAccess\UsuarioDA.java
+C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\view\RegistrarEmpenoGUI.java
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\dataAccess\Db.java
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\domain\RegistrarClienteController.java
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\domain\ControladorSesion.java
@@ -12,6 +13,7 @@ C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycomp
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\domain\BuscarClienteController.java
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\domain\Usuario.java
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\domain\Direccion.java
+C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\view\RegistrarCliente.java
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\dataAccess\EmpenoDA.java
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\domain\Cliente.java
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\domain\RegistrarEmpenoController.java
@@ -23,3 +25,4 @@ C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycomp
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\dataAccess\ClienteDA.java
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\view\BuscarArticuloGUI.java
 C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\view\BuscarClienteGUI.java
+C:\Users\Ron-E\Documents\NetBeansProjects\mavenproject1\src\main\java\com\mycompany\mavenproject1\view\NewJFrame.java

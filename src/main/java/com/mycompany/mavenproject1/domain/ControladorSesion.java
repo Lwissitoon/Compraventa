@@ -123,8 +123,6 @@ public class ControladorSesion {
 	}
 
 	public void cerrarSesion (){
-
-
 		voidUsuario();
 		Db.cerrarConexion();
 	}

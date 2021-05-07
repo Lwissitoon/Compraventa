@@ -8,6 +8,7 @@ Clase de la interfaz grafica de la funcionalidad Buscar Cliente
 
 package view;
 
+import com.mycompany.mavenproject1.view.VentanaPrincipalGUI;
 import domain.Prestamo;
 import domain.Empeno;
 import domain.Articulo;

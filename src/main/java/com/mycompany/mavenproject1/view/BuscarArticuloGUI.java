@@ -10,6 +10,7 @@ Vista de la Funcionalidad Buscar Articulo
 
 package view;
 
+import com.mycompany.mavenproject1.view.VentanaPrincipalGUI;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
